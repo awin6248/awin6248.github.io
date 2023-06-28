@@ -1,0 +1,26 @@
+.sidebar {
+  display: flex;
+  margin-left: 50px;
+  height: 80vh;
+  width: 300px;
+  margin-top: 100px;
+  flex-direction: column;
+}
+
+.index {
+  min-width: 200px;
+}
+
+.page-nav-item > a {
+  text-decoration: none;
+  color: black;
+}
+
+.page-nav-item > a:hover {
+  color: #ccc;
+}
+
+.page-nav {
+  list-style-type: none;
+  padding: 0px;
+}
