@@ -3,9 +3,14 @@
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 99%;
+    flex-basis: 61%;
+    min-width: 0;
+    flex-grow: 0;
     margin-left: 30px;
     overflow-y: scroll;
-    margin: 0px 60px 0px 60px;
+    padding-right: 40px;
+    margin: 0px 0px 0px 80px;
+    flex-shrink: 2;
   }
   
   .flex-item {
