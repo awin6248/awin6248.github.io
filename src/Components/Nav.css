@@ -32,7 +32,7 @@
   margin-bottom: 98px;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 600px) {
   .sidebar {
       flex-direction: row;
       flex-basis: 200px;

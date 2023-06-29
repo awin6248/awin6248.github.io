@@ -85,4 +85,9 @@
         width: 100%;
         overflow-y: scroll;
     }
+
+    .cv-text {
+        margin-left: 53px;
+        margin-top: 43px;
+    }
 }
