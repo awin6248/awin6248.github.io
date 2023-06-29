@@ -16,12 +16,12 @@ function App() {
     <div class='page'>
     <Nav/>
     <Routes>
-      <Route exact path='/drawing' Component={Drawing}/>
-      <Route exact path='/' Component={Home}/>
-      <Route exact path='/photography' Component={Photography}/>
-      <Route exact path='/video' Component={Video}/>
-      <Route exact path='/worksonpaper' Component={WorksOnPaper}/>
-      <Route exact path='/cv' Component={CV}/>
+      <Route exact path='/andrew-win/drawing' Component={Drawing}/>
+      <Route exact path='/andrew-win/' Component={Home}/>
+      <Route exact path='/andrew-win/photography' Component={Photography}/>
+      <Route exact path='/andrew-win/video' Component={Video}/>
+      <Route exact path='/andrew-win/printed-works' Component={WorksOnPaper}/>
+      <Route exact path='/andrew-win/cv' Component={CV}/>
     </Routes>
     </div>
   );
