@@ -6,6 +6,7 @@ import Photography from './Pages/Photography';
 import WorksOnPaper from './Pages/WorksOnPaper';
 import Home from './Pages/Home';
 import Nav from './Components/Nav';
+import CV from './Pages/Cv';
 import './index.css';
 
 
@@ -20,6 +21,7 @@ function App() {
       <Route exact path='/photography' Component={Photography}/>
       <Route exact path='/video' Component={Video}/>
       <Route exact path='/worksonpaper' Component={WorksOnPaper}/>
+      <Route exact path='/cv' Component={CV}/>
     </Routes>
     </div>
   );

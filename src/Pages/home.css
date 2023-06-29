@@ -15,6 +15,21 @@
   .description-about {
     line-height: 19px;
   }
+
+  .work {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 99%;
+    flex-basis: 61%;
+    min-width: 0;
+    flex-grow: 0;
+    margin-left: 30px;
+    overflow-y: scroll;
+    padding-right: 40px;
+    margin: 0px 0px 0px 80px;
+    flex-shrink: 2;
+  }
   
   .work * {
     width: 100%;
@@ -34,4 +49,12 @@
     font-size: 16px;
     font-weight: 500;
     margin-top: 8px;
+}
+
+.cv-text {
+    margin-top: 94px;
+}
+
+.instagram-link {
+    margin-top: 80px;
 }

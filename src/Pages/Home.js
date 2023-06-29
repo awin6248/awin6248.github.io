@@ -1,4 +1,5 @@
 import './home.css';
+import MainImage from "./HomeAssets/Laliguras-1.jpeg";
 
 const Home = () => {
     return (
@@ -10,16 +11,17 @@ const Home = () => {
                 </div>
             </div>
         <div class='work'>
-            <img src="https://cdn.pixabay.com/photo/2023/06/01/19/39/flower-8034206_1280.jpg"/>
+            <img src={MainImage}/>
             <div class='description'>
                 <h6>Laliguras 2021</h6>
                 <p>2x2in </p>
             </div>
-        </div>
-
-        <div id="footer" class="">
+            <div id="footer" class="">
              <p>© Andrew Win All Rights Reserved.</p>
         </div>
+        </div>
+
+       
       </div>
     )   
 };
