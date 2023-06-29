@@ -31,3 +31,17 @@
 .name-icon {
   margin-bottom: 98px;
 }
+
+@media (max-width: 550px) {
+  .sidebar {
+      flex-direction: row;
+      flex-basis: 200px;
+      flex-grow: 0;
+  }
+
+  .index {
+    margin-left: 30px;
+    margin-top: -17px;
+
+  }
+}
