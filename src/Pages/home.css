@@ -89,5 +89,7 @@
     .cv-text {
         margin-left: 53px;
         margin-top: 43px;
+        width: 66%;
+        font-size: 16px;
     }
 }
