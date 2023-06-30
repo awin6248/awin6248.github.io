@@ -11,12 +11,12 @@ const Nav = () => {
         </div>
         <div class='index'>
             <ul class='page-nav'>
-                <li class='page-nav-item'><NavLink to="/andrew-win">01　Home</NavLink></li>
-                <li class='page-nav-item'><NavLink to='/andrew-win/printed-works'>02　Printed Works</NavLink></li>
-                <li class='page-nav-item'><NavLink to='/andrew-win/drawing'>03　Drawings</NavLink></li>
-                <li class='page-nav-item'><NavLink to='/andrew-win/photography'>04　Photography</NavLink></li>
-                <li class='page-nav-item'><NavLink to='/andrew-win/video'>05　Video</NavLink></li>
-                <li class='page-nav-item'><NavLink to='/andrew-win/cv'>06　CV</NavLink></li>
+                <li class='page-nav-item'><NavLink to="/">01　Home</NavLink></li>
+                <li class='page-nav-item'><NavLink to='/printed-works'>02　Printed Works</NavLink></li>
+                <li class='page-nav-item'><NavLink to='/drawing'>03　Drawings</NavLink></li>
+                <li class='page-nav-item'><NavLink to='/photography'>04　Photography</NavLink></li>
+                <li class='page-nav-item'><NavLink to='/video'>05　Video</NavLink></li>
+                <li class='page-nav-item'><NavLink to='/cv'>06　CV</NavLink></li>
             </ul>
         </div>
     </div>
