@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/awin6248.github.io/static/css/main.cc1e2b2d.css",
-    "main.js": "/awin6248.github.io/static/js/main.b4de2906.js",
-    "static/js/787.ef308ba5.chunk.js": "/awin6248.github.io/static/js/787.ef308ba5.chunk.js",
-    "static/media/Laliguras-1.jpeg": "/awin6248.github.io/static/media/Laliguras-1.b8f695bae8cf193faf7e.jpeg",
-    "static/media/logo.svg": "/awin6248.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/awin6248.github.io/index.html",
-    "main.cc1e2b2d.css.map": "/awin6248.github.io/static/css/main.cc1e2b2d.css.map",
-    "main.b4de2906.js.map": "/awin6248.github.io/static/js/main.b4de2906.js.map",
-    "787.ef308ba5.chunk.js.map": "/awin6248.github.io/static/js/787.ef308ba5.chunk.js.map"
+    "main.css": "/static/css/main.cc1e2b2d.css",
+    "main.js": "/static/js/main.bf7c80c4.js",
+    "static/js/787.ef308ba5.chunk.js": "/static/js/787.ef308ba5.chunk.js",
+    "static/media/Laliguras-1.jpeg": "/static/media/Laliguras-1.b8f695bae8cf193faf7e.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.cc1e2b2d.css.map": "/static/css/main.cc1e2b2d.css.map",
+    "main.bf7c80c4.js.map": "/static/js/main.bf7c80c4.js.map",
+    "787.ef308ba5.chunk.js.map": "/static/js/787.ef308ba5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc1e2b2d.css",
-    "static/js/main.b4de2906.js"
+    "static/js/main.bf7c80c4.js"
   ]
 }
