@@ -12,10 +12,10 @@ const Home = () => {
             </div>
         <div class='work'>
             <img src={MainImage}/>
-            <div class='description'>
+            {/* <div class='description'>
                 <h6>Laliguras 2021</h6>
                 <p>2x2in </p>
-            </div>
+            </div> */}
             <div id="footer" class="">
              <p>© Andrew Win All Rights Reserved.</p>
         </div>
