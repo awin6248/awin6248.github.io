@@ -53,14 +53,39 @@
 
 .cv-text {
     margin-top: 94px;
+    width: 55vw;
+    font-size: 15px;
+}
+
+.cv-header {
+    margin-bottom: 10px;
+    color: #999;
+    margin-top: 10px;
+    font-size: 15px;
 }
 
 .instagram-link {
     margin-top: 80px;
+    padding-bottom: 20px;
+}
+
+.cv-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 0px 10px 0px;
+    background-image: linear-gradient(to right, black 33%, rgba(255,255,255,0) 0%);
+    background-position: bottom;
+    background-size: 3px 1px;
+    background-repeat: repeat-x;
+}
+
+.cv-item > .year {
+    padding-right: 40px;
 }
 
 
-@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 650px) {
     .work {
         display: flex;
         /* flex-direction: column; */
@@ -75,6 +100,7 @@
         /* padding-right: 40px; */
         margin: 0px 0px 8px 45px;
         flex-shrink: 0;
+        font-size: 14px;
     }
 
     .head-about {
@@ -90,6 +116,10 @@
         margin-left: 53px;
         margin-top: 43px;
         width: 77vw;
-        font-size: 16px;
+        font-size: 13px;
+    }
+
+    .cv-item > .year {
+        padding-right: 20px;
     }
 }
